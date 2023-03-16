@@ -1,0 +1,323 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.aqua{
+ 
+    
+    color: aqua;
+}
+
+.nod{
+border-left: 2px solid gray;
+}
+.n{
+    text-decoration: none;
+color: black;
+    margin-right: 15px;
+}
+
+.na{
+    margin-right: 15px;
+margin-left: 15%;
+padding-left: 15%;
+    text-decoration: none;
+}
+
+.nook{
+    margin-left: 10%;
+    margin-right: 15px;
+}
+
+
+.momo{
+    margin-left: 30%;
+}
+.btno{
+    margin-left: 20px;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 140px;
+    background-color: aqua;
+}
+.photo{
+    background-image: url(photo.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+height: 100%;
+width: 100%;
+
+
+
+}
+.mok{
+
+    padding-top: 20px;
+}
+
+input{
+    padding: 15px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.wo{
+    color: white;
+}
+.bla{
+    color: gray;
+}
+.sectio{
+
+}
+
+
+
+.m-a{
+    padding-bottom: 20%;
+    margin-bottom: 15%;
+    margin-top: 17%;
+    margin-left: 15%;
+}
+
+
+.ff{
+    margin-left: 15px;
+}
+
+
+.ads{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.829);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding-left: 5%;
+}
+
+
+
+
+.bgo{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgba(247, 241, 241, 0.644);
+}
+@media screen and(max-width:600) {
+    .hhoo{
+width: 100%;    }
+    
+}
+@media screen and (max-width:992) {
+    .hhoo{
+        width: 50%;
+    }
+    
+}
+@media screen and (max-width:1200) {
+    .hhoo{
+        width: 50%;
+    }
+    
+}
+
+.ee{
+    color: rgb(51, 48, 48);
+}
+
+.klg{
+    margin: 10px;
+    transition: 2s all;
+    -webkit-transition: 2s all;
+    -moz-transition: 2s all;
+    -ms-transition: 2s all;
+    -o-transition: 2s all;
+}
+
+.ovr{
+    position: relative;
+    overflow: hidden;
+}
+
+.booy{
+    position: absolute;
+    left: 22px;
+    bottom: 5%;
+}
+.btno{
+    border-radius: 20%;
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: aqua;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+
+.ovr:hover .klg{
+    transform: scale(1.3,1.3);
+    -webkit-transform: scale(1.3,1.3);
+    -moz-transform: scale(1.3,1.3);
+    -ms-transform: scale(1.3,1.3);
+    -o-transform: scale(1.3,1.3);
+}
+.posi{
+    margin: auto;
+    text-align: center;
+}
+
+.fleoo{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+}
+.ovr h4{
+    color: rgb(133, 124, 124);
+    font-size: 20px;
+}
+.kkg{
+    height: 200px;
+    width: 200px;
+}
+.divd{
+     width: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+i{
+    color: goldenrod;
+}
+.ref{
+    padding-top: 40px;
+}
+.divd{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.zoz{
+    padding-top: 60px;
+    width: 100%;
+    margin-top: 60px;
+}
+.carousel-indicator [data-bs-target]{
+    height: 15px;
+    
+    width: 15px;
+    color: rgb(59, 199, 204);
+    background-color: rgb(43, 189, 226);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.doo p{
+    width: 400px;
+
+}
+
+
+.gop{
+    margin-left: 60%;
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    top: 95%;
+    left: 45%;
+
+}
+.wio{
+    color: rgba(102, 98, 98, 0.548);
+}
+ 
+.toooo{
+    flex-wrap: wrap;
+    margin: auto;
+
+    text-align: center;
+}
+
+
+.card{
+    width: 400px;
+}
+
+
+
+body{
+    overflow-x: hidden;
+}
+.posi{
+    margin: auto;
+    text-align: center;
+}
+
+.who{
+    color: white;
+}
+.df{
+    height: 100%;
+    margin: auto
+    ;
+    text-align: center;
+    background-color: rgba(37, 33, 33, 0.459);
+}
+li{
+    list-style: none;
+}
+li:hover{
+
+    color: white;
+}
+li:hover{
+
+    padding-left: 10px;
+}
+.df{
+    display: flex;
+    flex-direction: row;
+}
+
+.rou{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.fa-brands{
+    font-size: 35px;
+    color: white;
+    margin: 10px;
+}
+.uip{
+    margin-top: 20px;
+}
+.df{
+    margin: auto;
+    text-align: center;
+    border-bottom: 2px solid gray;
+}
+
+.dof{
+    text-align: center;
+    margin: auto;
+}
