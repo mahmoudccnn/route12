@@ -325,6 +325,6 @@ li:hover{
 html{
 overflow-x:hidden
 ;
-        
-width:  min-content;
+          
+width:  fit-content;
     }
