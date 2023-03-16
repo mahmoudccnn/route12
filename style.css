@@ -1,4 +1,4 @@
-*{
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -264,7 +264,7 @@ i{
 
 
 
-body{
+body{width: fit-content;
     overflow-x: hidden;
 }
 .posi{
@@ -322,9 +322,9 @@ li:hover{
 .dof{
     text-align: center;
     margin: auto;}
-    .das ,html{
-        overflow: hidden
-        ;
-        width: 1300px;
-    
+html{
+overflow-x:hidden
+;
+        
+width:  min-content;
     }
